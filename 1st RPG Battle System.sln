@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st RPG Battle System.CSharp", "1st RPG Battle System.CSharp.csproj", "{6405E726-6B0C-1E44-2C79-7894154E5EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1st RPG Battle System.CSharp.Editor", "1st RPG Battle System.CSharp.Editor.csproj", "{5BA00999-C88D-CE1D-6D69-0900D5601A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6405E726-6B0C-1E44-2C79-7894154E5EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6405E726-6B0C-1E44-2C79-7894154E5EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6405E726-6B0C-1E44-2C79-7894154E5EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6405E726-6B0C-1E44-2C79-7894154E5EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA00999-C88D-CE1D-6D69-0900D5601A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA00999-C88D-CE1D-6D69-0900D5601A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA00999-C88D-CE1D-6D69-0900D5601A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA00999-C88D-CE1D-6D69-0900D5601A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

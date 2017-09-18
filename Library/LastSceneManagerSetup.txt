@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/TestAssets/Levels/SceneList/mushroomScene.unity
+  isLoaded: 1
+  isActive: 1

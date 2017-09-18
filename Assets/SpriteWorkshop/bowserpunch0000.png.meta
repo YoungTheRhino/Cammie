@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: 67e22c1b9af4f5b4c96db4633d64cea8
+timeCreated: 1443389225
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bowserpunch0000_0
+    21300002: bowserpunch0000_1
+    21300004: bowserpunch0000_2
+    21300006: bowserpunch0000_3
+    21300008: bowserpunch0000_4
+    21300010: bowserpunch0000_5
+    21300012: bowserpunch0000_6
+    21300014: bowserpunch0000_7
+    21300016: bowserpunch0000_8
+    21300018: bowserpunch0000_9
+    21300020: bowserpunch0000_10
+    21300022: bowserpunch0000_11
+    21300024: bowserpunch0000_12
+    21300026: bowserpunch0000_13
+    21300028: bowserpunch0000_14
+    21300030: bowserpunch0000_15
+    21300032: bowserpunch0000_16
+    21300034: bowserpunch0000_17
+    21300036: bowserpunch0000_18
+    21300038: bowserpunch0000_19
+    21300040: bowserpunch0000_20
+    21300042: bowserpunch0000_21
+    21300044: bowserpunch0000_22
+    21300046: bowserpunch0000_23
+    21300048: bowserpunch0000_24
+    21300050: bowserpunch0000_25
+    21300052: bowserpunch0000_26
+    21300054: bowserpunch0000_27
+    21300056: bowserpunch0000_28
+    21300058: bowserpunch0000_29
+    21300060: bowserpunch0000_30
+    21300062: bowserpunch0000_31
+    21300064: bowserpunch0000_32
+    21300066: bowserpunch0000_33
+    21300068: bowserpunch0000_34
+    21300070: bowserpunch0000_35
+    21300072: bowserpunch0000_36
+    21300074: bowserpunch0000_37
+    21300076: bowserpunch0000_38
+    21300078: bowserpunch0000_39
+    21300080: bowserpunch0000_40
+    21300082: bowserpunch0000_41
+    21300084: bowserpunch0000_42
+    21300086: bowserpunch0000_43
+    21300088: bowserpunch0000_44
+    21300090: bowserpunch0000_45
+    21300092: bowserpunch0000_46
+    21300094: bowserpunch0000_47
+    21300096: bowserpunch0000_48
+    21300098: bowserpunch0000_49
+    21300100: bowserpunch0000_50
+    21300102: bowserpunch0000_51
+    21300104: bowserpunch0000_52
+    21300106: bowserpunch0000_53
+    21300108: bowserpunch0000_54
+    21300110: bowserpunch0000_55
+    21300112: bowserpunch0000_56
+    21300114: bowserpunch0000_57
+    21300116: bowserpunch0000_58
+    21300118: bowserpunch0000_59
+    21300120: bowserpunch0000_60
+    21300122: bowserpunch0000_61
+    21300124: bowserpunch0000_62
+    21300126: bowserpunch0000_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bowserpunch0000_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1012
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1011
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1012
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1012
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1011
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1010
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 931
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 930
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 930
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 926
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 931
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 930
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 849
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 845
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 843
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 842
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 560
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 734
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 734
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 731
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 729
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_22
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 732
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 732
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 643
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 643
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 643
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 641
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 642
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_29
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 644
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 554
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 553
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 557
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 558
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_34
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 561
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 558
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 457
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 456
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 460
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 468
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 469
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 471
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 363
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 370
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 369
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 371
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 560
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 346
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 241
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 234
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 239
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_51
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 238
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 242
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_53
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 235
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 146
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 152
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 153
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 153
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_58
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 153
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_59
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 151
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 74
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 77
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 77
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bowserpunch0000_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 560
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
